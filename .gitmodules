@@ -1,0 +1,3 @@
+[submodule "libs/child"]
+	path = libs/child
+	url = git@github.com:alfadiyaefx/child-repo.git
