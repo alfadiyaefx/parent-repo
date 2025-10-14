@@ -1,3 +1,6 @@
 [submodule "child-repo"]
 	path = child-repo
 	url = git@github.com:alfadiyaefx/child-repo.git
+[submodule "src/source/test-zuul"]
+	path = src/source/test-zuul
+	url = git@github.com:alfadiyaefx/test-zuul.git
